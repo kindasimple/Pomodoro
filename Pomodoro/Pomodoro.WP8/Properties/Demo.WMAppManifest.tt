@@ -1,0 +1,3 @@
+﻿<#
+  ConfiguredAppTitle = "Pomodoro (Demo)";
+#><#@ include file="WMAppManifest-base.tt" #>
